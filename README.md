@@ -1,4 +1,5 @@
-"# DevOps Project"  "# devops-project" 
-"# devops-project" 
-"# devops-project" 
-"# devops-project" 
+# 1. how DevOps improves software delivery 
+
+# ans. DevOps prevents the “silos” between development and operations teams, fostering a culture of shared responsibility and constant co-operation between the two. With older models, developers would code a feature and pass it on to a different operations group with little understanding of how the code was developed, causing conflict and deployment issues. DevOps has changed this by creating a continuous, automated software lifecycle that takes place in small, frequent iterations instead of large, rare releases. This ‘Continuous Integration and Continuous Delivery' (CI/CD) philosophy allows bugs to be detected early and software to be continually in a state to be deployed to users at any time.
+
+# DevOps is not only about collaboration; automation and monitoring are key factors in improving the speed and reliability of a project. Infrastructure is treated as code—infrastructure is set up via scripts, which avoids manual configuration and the associated human errors. After the project goes live, the key principle of DevOps is to be constantly monitoring and give a continuous feedback loop. That means that once a new update introduces a problem, the team will know about it right away and can easily switch back to a stable version of the app within minutes. As a result, you will get to the market quicker, produce better code, and provide a smoother user experience.
